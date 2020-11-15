@@ -19,7 +19,9 @@ This Skill works through a command the user invokes to their Alexa Smart Home sy
 ## User research
 8 people were interviewed about whether they had the problem, whether they were interested in the product, and whether they would download it.
 
-100% of the interviewees said they had the problem 100% of the interviewees said they were interested in the solution 100% of the interviewees said they would download the skill
+100% of the interviewees said they had the problem 
+100% of the interviewees said they were interested in the solution 
+100% of the interviewees said they would download the skill
 
 Link to the arduino sketch
 https://www.dropbox.com/sh/nt7gv4c1hxdlb7s/AAAJtKW1FqOpP5Kx-YYUsT5ca?dl=0
