@@ -25,8 +25,4 @@ Link to the arduino sketch
 https://www.dropbox.com/sh/nt7gv4c1hxdlb7s/AAAJtKW1FqOpP5Kx-YYUsT5ca?dl=0
 
 ## Built With
-amazon-alexa
-arduino
-c++
-javascript
-node.js
+amazon-alexa, arduino, c++, javascript, node.js
