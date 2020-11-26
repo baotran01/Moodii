@@ -1,4 +1,4 @@
-# Moodii
+# Moodii - BostonHacks 2020 (Best Hardware Project Challenge Winner)
 
 ## The Problem
 How do you stay productive during a pandemic? How do you separate your work from your life at home? As our world changes around us, what can we do to ensure that we are changing with it, and adapting mentally to the new normal?
